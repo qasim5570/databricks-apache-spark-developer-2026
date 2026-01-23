@@ -1,0 +1,21 @@
+user_id,name,active,signup_date,interests,recent_purchases
+101,Diana Smith,TRUE,9/20/2024,"[""astronomy"",""coding""]","[{""product_id"":""P321"",""name"":""Textbook"",""price"":85}]"
+102,Ian Brown,FALSE,9/9/2024,"[""social media"",""programming""]",[]
+103,Hannah Davis,TRUE,3/15/2025,"[""movies"",""pets"",""biology""]","[{""product_id"":""P2222"",""name"":""Wireless Headphones"",""price"":249},{""product_id"":""P987"",""name"":""Camera"",""price"":599},{""product_id"":""P555"",""name"":""Cooking Knives"",""price"":129}]"
+104,Diana Clark,TRUE,6/30/2023,"[""biology"",""coding"",""hiking""]",[]
+105,Charlie Lewis,TRUE,5/24/2023,"[""machine learning"",""drawing""]","[{""product_id"":""P6666"",""name"":""E-Reader"",""price"":129},{""product_id"":""P2222"",""name"":""Wireless Headphones"",""price"":249}]"
+106,Nina Johnson,TRUE,4/23/2023,"[""gardening"",""tennis"",""cooking"",""painting""]","[{""product_id"":""P321"",""name"":""Textbook"",""price"":85},{""product_id"":""P9999"",""name"":""Portable Projector"",""price"":399}]"
+107,Alice Williams,TRUE,12/23/2022,"[""gardening"",""painting""]",[]
+108,George Brown,FALSE,10/23/2023,"[""finance"",""pets"",""gaming"",""dogs""]","[{""product_id"":""P7777"",""name"":""Smart Watch"",""price"":299}]"
+109,Quinn Walker,TRUE,6/13/2024,"[""food"",""biology"",""chess"",""hiking""]","[{""product_id"":""P1111"",""name"":""Financial Software"",""price"":199},{""product_id"":""P2222"",""name"":""Wireless Headphones"",""price"":249},{""product_id"":""P555"",""name"":""Cooking Knives"",""price"":129}]"
+110,Alice Clark,TRUE,1/10/2023,"[""astronomy"",""chemistry"",""yoga"",""movies""]",[]
+111,George Clark,TRUE,3/8/2023,"[""food""]",[]
+112,Nina Brown,FALSE,11/11/2025,"[""programming"",""golf"",""movies"",""reading""]","[{""product_id"":""P6666"",""name"":""E-Reader"",""price"":129},{""product_id"":""P7777"",""name"":""Smart Watch"",""price"":299}]"
+113,Oscar Lewis,TRUE,11/21/2024,"[""physics"",""technology"",""art"",""gaming"",""cycling""]","[{""product_id"":""P123"",""name"":""Laptop"",""price"":999}]"
+114,Ian Smith,TRUE,10/3/2025,"[""cycling"",""books"",""social media""]",[]
+115,Fiona Lee,TRUE,4/25/2025,"[""traveling"",""chemistry"",""cycling""]",[]
+116,Kevin Taylor,TRUE,5/3/2025,"[""food"",""basketball"",""chemistry"",""cooking"",""reading""]",[]
+117,Ethan Wilson,TRUE,8/16/2023,"[""pets"",""tennis"",""skiing"",""gardening""]","[{""product_id"":""P7777"",""name"":""Smart Watch"",""price"":299}]"
+118,Kevin Garcia,TRUE,4/8/2025,"[""drawing"",""fashion""]","[{""product_id"":""P7777"",""name"":""Smart Watch"",""price"":299}]"
+119,Charlie Martin,TRUE,3/10/2025,"[""skiing"",""gaming"",""golf"",""machine learning""]",[]
+120,Diana Moore,TRUE,8/22/2022,"[""music"",""history"",""reading"",""education""]",[]
