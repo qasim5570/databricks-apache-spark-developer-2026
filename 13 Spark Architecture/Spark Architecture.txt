@@ -1,0 +1,24 @@
+Apache Spark on Databricks:
+
+
+Spark Execution/Cluster Modes:
+    Standalone: usually for databricks
+    Yarn: Most Important
+    Mesos
+    Kubernetes
+    Local: normal dev
+
+Spark Master UI:
+spark://10.3.9.1:7443
+
+Environment:
+Properties: spark.sql.adaptive.enabled -> when this enabled, parameter shuffle.Partition is useless
+.shuffle.partition
+autoBoradcastJoinThreshold
+
+Adaptive Query Execution:
+    coalescing post-shuffle partition
+    converting sort-merge join to broadcast join
+    converting sort-merge join to shuffle hash join
+    optimizing skew join
+    splitting skewed shuffle partitions
